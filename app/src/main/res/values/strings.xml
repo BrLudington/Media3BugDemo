@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExoplayerBugDemo</string>
+    <string name="instructions">Keep adding videos until duration is over twenty seconds or so.
+        Then scrub to near of end of the video. Change orientation and note that not only is the position set to the end,
+    but the duration comes up short.</string>
+</resources>
